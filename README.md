@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning AI&ML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - krishnasaikotoju@gmail.com
-- 😄 Pronouns: ...He/Him
 
 
 <!---

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Saikrishnakotoju
 - 👀 I’m interested in Artifical Intelligence
 - 🌱 I’m currently learning AI&ML
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on AI,NLP,ML GenAI
 - 📫 How to reach me - krishnasaikotoju@gmail.com
 
 
